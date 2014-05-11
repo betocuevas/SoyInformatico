@@ -1,0 +1,1 @@
+Guarda en esta carpeta las imagenes que vas a utilizar en la guía de HTML 5.

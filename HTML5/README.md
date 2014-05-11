@@ -7,3 +7,9 @@
 ##Licencias
 
 ##Tabla de contenido
+
+##Referencias
+
+##FAQ's
+
+##Créditos
