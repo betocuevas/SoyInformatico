@@ -1,15 +1,15 @@
-#Guía sobre HTML 5
+# Guía sobre HTML 5
 
-##Intoducción
+## Intoducción
 
-##Contribuir
+## Contribuir
 
-##Licencias
+## Licencias
 
-##Tabla de contenido
+## Tabla de contenido
 
-##Referencias
+## Referencias
 
-##FAQ's
+## FAQ's
 
-##Créditos
+## Créditos
