@@ -1,5 +1,5 @@
 # Proyecto Soy Informático
-*Guías sobre la Ingeniería Informática*
+***Guías sobre la Ingeniería Informática***
 
 Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre distintas áreas de la Ingeniería Informática.
 
