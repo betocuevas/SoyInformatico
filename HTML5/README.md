@@ -1,5 +1,4 @@
 <p style="text-align: justify;">El UML es llamado lenguaje de modelo desde los años 80’s y principios de los 90’s, donde se había establecido que es un modelo y no un método como la mayoría de las personas pretendían comprenderlo de esa forma. Por lo cual se explicó que los métodos son los que consisten de ambos, de un lenguaje de modelado y de un proceso.</p>
-<!--more-->
 
 <em>Tabla de contenido:</em>
 <ol>
